@@ -1,4 +1,4 @@
-# Classifying-skin-lesions-with-SNNs
+# Classifying skin lesions with SNNs
 
 This project evaluated the use of Siamese Neural Networks with triplet loss for
 classifying skin disease images and identifying previously unseen classes. The data used for the project
